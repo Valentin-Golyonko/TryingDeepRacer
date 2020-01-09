@@ -1,12 +1,13 @@
 # TryingDeepRacer
-Deepracer - AWS machine learning racing simulator.
+DeepRacer is AWS reinforcement machine learning racing simulator.
+
 Official web site - https://aws.amazon.com/deepracer/
 
 <details><summary><b>DeepRacer Test #1 (CLICK ME)</b></summary>
 <p>
 
 ###
-<img src="https://github.com/Valentin-Golyonko/TryingDeepRacer/blob/master/reward%20graph.png" alt="web_view">
+<img src="https://github.com/Valentin-Golyonko/TryingDeepRacer/blob/master/media/reward%20graph.png" alt="web_view">
 
 
 ### Training process:
